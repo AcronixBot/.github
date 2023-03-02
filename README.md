@@ -1,3 +1,6 @@
+Invite Acronix: https://bot.voroniyx.xyz/invite
+====
+
 Acronix is a bot focused on anti-ping, Splatoon 2/3, and Info.
 
 It already has features like:
