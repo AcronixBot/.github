@@ -5,10 +5,9 @@ Acronix is a bot focused on anti-ping, Splatoon 2/3, and Info.
 
 It already has features like:
 - Anti Ping
-- Channel Logging
+  - **Now with Discord Automod**
 - **Splatoon 2 & 3 Commands** 
 - Info Commands, like App Info and Invite Info
-- Ticket System
 
 He also has a few moderation commands, but even there, more commands will come in the future
 
