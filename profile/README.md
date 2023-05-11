@@ -1,15 +1,15 @@
-Invite Acronix: https://bot.voroniyx.xyz/invite
-====
+<a href="https://canary.discord.com/api/oauth2/authorize?client_id=905083832695398481&permissions=1376537373730&scope=bot%20applications.commands"><img src="https://i.imgur.com/GM5Uv7i.png" alt="" /></a>
 
-Acronix is a bot focused on anti-ping, Splatoon 2/3, and Info.
+Hey,
+I'm glad to see you. I'm Acronix a bot to manage anti ping systems, with lots of info commands and Splatoon 3 support. I was verified on 
+April 23, 2023 at 2:03 PM verified I started as a simple anti ping bot. Have welcomed and adopted new features over time.
 
-It already has features like:
-- Anti Ping
-  - **Now with Discord Automod**
-- **Splatoon 2 & 3 Commands** 
-- Info Commands, like App Info and Invite Info
+<img src="https://i.imgur.com/r5YFQ4B.png" alt="" />
 
-He also has a few moderation commands, but even there, more commands will come in the future
+`#` Anti Ping -> The Anti Ping system is fully customizable and you can decide if you want to use the Discord AutoMod. (Unfortunately deactivated due to missing intent)
 
-Small overview of the future plans:
-- More Moderation Commands
+`#` Information -> Through the different subcommands it is clearer and more efficient than some other bots.
+
+`#` Splatoon 3 -> You can get the current Salmon Run rotation. 
+
+`#` German and English -> With English support, everyone can use Acronix.
