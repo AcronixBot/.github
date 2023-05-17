@@ -1,8 +1,7 @@
 <a href="https://canary.discord.com/api/oauth2/authorize?client_id=905083832695398481&permissions=1376537373730&scope=bot%20applications.commands"><img src="https://i.imgur.com/GM5Uv7i.png" alt="" /></a>
 
-Hey,
-I'm glad to see you. I'm Acronix a bot to manage anti ping systems, with lots of info commands and Splatoon 3 support. I was verified on 
-April 23, 2023 at 2:03 PM verified I started as a simple anti ping bot. Have welcomed and adopted new features over time.
+
+# I'm glad to see you. I'm Acronix a bot to manage anti ping systems, with lots of info commands and Splatoon 3 support. I was verified on April 23, 2023 at 2:03 PM and i started as a simple anti ping bot. Have welcomed and adopted new features over time.
 
 <img src="https://i.imgur.com/r5YFQ4B.png" alt="" />
 
