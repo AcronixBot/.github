@@ -6,7 +6,6 @@
 <img src="https://i.imgur.com/1gq8Ycq.png" alt="" />
 
 ### Here a little overview about the repos
-- [AcronixBot/acronix-nintendo-helpers](https://github.com/AcronixBot/acronix-nintendo-helpers) generates, with a few simple steps, important tokens for the Splatnet3 app.
 - [AcronixBot/public-files](https://github.com/AcronixBot/public-files)  containing the most important files, namely the [Terms of Service](https://github.com/AcronixBot/public-files/blob/main/tos.md) and [Privacy Policy](https://github.com/AcronixBot/public-files/blob/main/privacy.md)
 - [AcronixBot/acronix-utils-bot](https://github.com/AcronixBot/acronix-utils-bot) is for the bot on the [Support Server](https://discord.gg/sj3ZTNn9d7)
 - [AcronixBot/api-server](https://github.com/AcronixBot/api-server) will include code for some backend staff in the future
